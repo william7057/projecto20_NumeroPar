@@ -11,7 +11,7 @@ namespace projecto20_NumeroPar
         static void Main(string[] args)
         {
             //Realizar un programa que que me indique si un numero es par o impar, 
-            //que muestre un  mensaje de salida
+            //que muestre un  mensaje de salida.s
 
             int numero;
             Console.WriteLine("Ingrese el Numero ? ");
